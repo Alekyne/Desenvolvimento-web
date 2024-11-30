@@ -121,6 +121,7 @@ Copiar código
         </div>
     </div>
 </section>
+
 4. Uso de Bibliotecas e Recursos Externos
 Bootstrap: Usado para o layout responsivo e componentes como botões, navegação e cards.
 Font Awesome: Ícones para representar habilidades como HTML, CSS, JavaScript, Python, entre outros.
@@ -137,10 +138,12 @@ Como Usar
 Clone este repositório em sua máquina.
 Abra o arquivo index.html em seu navegador para visualizar o portfólio em ação.
 Modifique os conteúdos de cada seção conforme necessário para personalizar o portfólio com suas informações pessoais.
+
 Dependências
 Bootstrap: Para responsividade e componentes visuais.
 Font Awesome: Para ícones.
 Owl Carousel: Para o carrossel de depoimentos.
+
 Licença
 Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
